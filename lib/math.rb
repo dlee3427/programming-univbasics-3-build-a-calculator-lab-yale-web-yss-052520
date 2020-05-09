@@ -1,17 +1,16 @@
 def addition(num1, num2)
-  a = num1
-  b = num2 
-  puts a + b 
+  result = num1.to_i + num.to_i
+  puts result
 end
 
 def subtraction(num1, num2)
-  result = num2.to_i - num1.to_i 
+  result = num1.to_i - num2.to_i 
   puts result 
   result
 end
 
 def division(num1, num2)
-  result2 = num2.to_i / num1.to_i 
+  result2 = num1.to_i / num2.to_i 
   puts result2
   result2
 end
