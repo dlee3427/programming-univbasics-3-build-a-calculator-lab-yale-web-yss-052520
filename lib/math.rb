@@ -25,7 +25,7 @@ end
 def modulo(num1, num2)
   remainder = num2.to_i % num1.to_i 
   puts remainder
-  result4
+  remainder
 end
 
 def square_root(num)
