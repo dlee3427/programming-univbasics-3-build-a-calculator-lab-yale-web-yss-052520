@@ -1,7 +1,7 @@
 def addition(num1, num2)
-  result = num1.to_i + num2.to_i
-  puts result 
-  result
+  a = num1
+  b = num2 
+  puts a + b 
 end
 
 def subtraction(num1, num2)
